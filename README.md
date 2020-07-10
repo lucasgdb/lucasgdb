@@ -1,4 +1,4 @@
-# Lucas Bittencourt :man_technologist:
+# :man_technologist: Lucas Bittencourt
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/lucasgdb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucas-bittencourt/)
@@ -9,13 +9,13 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/lucasgdb)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
 
-## Olá 👋
+## Olá! 👋
 
 Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
 
-- :office_worker: Trabalhando como estagiário Desenvolvedor na **LIAX Tecnologia**
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript e mais!
-- :books: Estudando sobre CI/CD com Jenkins, Docker e AWS :heart:
+- :office_worker: Estagiário Desenvolvedor na **LIAX Tecnologia**
+- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
+- :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
 
 > :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 
