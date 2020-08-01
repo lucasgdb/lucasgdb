@@ -13,8 +13,8 @@
 
 Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
 
-- :office_worker: Estagiário Desenvolvedor na **LIAX Tecnologia**
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
+- :office_worker: Full Stack Software Engineer na **Ênfase Labs**
+- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, entre outras.
 - :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
 
 > :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
