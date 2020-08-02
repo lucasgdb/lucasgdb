@@ -9,7 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/lucasgdb)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
 
-## Olá! <img src="./assets/hi.gif" width="22px">
+## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
 Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
 
@@ -56,5 +56,5 @@ Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixon
   
   ---
   
-  <img src="./assets/life-code.png" />
+  <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/life-code.png" />
 </details>
