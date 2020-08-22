@@ -15,7 +15,7 @@ Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixon
 
 - :office_worker: JS Full Stack Software Engineer at **Curso Ênfase**
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, entre outras.
-- :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
+- :books: Estudando Relay e GraphQL. :heart:
 
 > :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 
