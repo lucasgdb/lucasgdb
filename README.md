@@ -13,7 +13,7 @@
 
 Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
 
-- :office_worker: JS Full Stack Software Engineer at **Curso Ênfase**
+- :office_worker: JS Full Stack Software Engineer at **Ênfase Labs**
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, entre outras.
 - :books: Estudando Relay e GraphQL. :heart:
 
