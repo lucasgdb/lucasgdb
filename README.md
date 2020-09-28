@@ -11,7 +11,7 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
+Meu nome é Lucas Bittencourt, 21, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
 
 - :office_worker: JavaScript Full Stack Software Engineer na **Ênfase Labs**
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, entre outras.
@@ -24,8 +24,10 @@ Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixon
 <details>
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
-
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lucasgdb/lucasgdb)
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
+  </a>
 
 ## Algumas Tecnologias
 
@@ -53,8 +55,4 @@ Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixon
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
-  
-  ---
-  
-  <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/life-code.png" />
 </details>
