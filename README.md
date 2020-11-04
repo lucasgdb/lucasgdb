@@ -11,9 +11,9 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Lucas Bittencourt, 21, Técnico em Desenvolvimento de Sistemas e apaixonado por Tecnologia.
+Meu nome é Lucas Bittencourt, 21, apaixonado por Tecnologia e Programação.
 
-- :office_worker: JavaScript Full Stack Software Engineer na **Ênfase Labs**
+- :office_worker: Software Engineer na **Ênfase Labs**
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, entre outras.
 - :books: Estudando Relay e GraphQL. :heart:
 
