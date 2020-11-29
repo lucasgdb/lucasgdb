@@ -13,7 +13,7 @@
 
 Meu nome é Lucas Bittencourt, 21, apaixonado por Tecnologia e Programação.
 
-- :office_worker: Software Engineer na **Ênfase Labs**
+- :office_worker: Software Engineer na [**Ênfase Labs**](https://jobs.enfaselabs.com.br/)
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, entre outras.
 - :books: Estudando Relay e GraphQL. :heart:
 
