@@ -21,6 +21,12 @@ Meu nome é Lucas Bittencourt, 21, apaixonado por Tecnologia e Programação! :h
 
 ---
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=lucasgdb" alt="Trophies" />
+  </a>
+</p>
+
 <details>
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
