@@ -9,7 +9,7 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Sou o Lucas Bittencourt, 21, Desenvolvedor Full Stack e amante do DevOps!
+Meu nome é Lucas Bittencourt, 21, Desenvolvedor Full Stack e amante do DevOps!
 
 - :office_worker: Software Engineer na [**Ênfase Labs**](https://jobs.enfaselabs.com.br/)
 - :blue_heart: Stack: ReactJS, Node & React Native
