@@ -12,7 +12,7 @@
 Meu nome é Lucas Bittencourt, 21, Desenvolvedor Full Stack e amante do DevOps!
 
 - :office_worker: Software Engineer na [**Ênfase Labs**](https://jobs.enfaselabs.com.br/)
-- :blue_heart: Stack: ReactJS, Node & React Native
+- :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
 - :books: Estudando: AWS, Relay & GraphQL
 
 > :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
