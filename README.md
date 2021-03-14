@@ -9,11 +9,11 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Lucas Bittencourt, 21, apaixonado por Tecnologia e Programação! :heart:
+Sou o Lucas Bittencourt, 21, Desenvolvedor Full Stack e amante do DevOps!
 
 - :office_worker: Software Engineer na [**Ênfase Labs**](https://jobs.enfaselabs.com.br/)
-- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, entre outras
-- :books: Estudando Relay e GraphQL
+- :blue_heart: Stack: ReactJS, Node & React Native
+- :books: Estudando: AWS, Relay & GraphQL
 
 > :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 
@@ -35,7 +35,7 @@ Meu nome é Lucas Bittencourt, 21, apaixonado por Tecnologia e Programação! :h
     </a>
   </p>
 
-## Algumas Tecnologias
+  ## Algumas Tecnologias
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
