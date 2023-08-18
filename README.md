@@ -12,8 +12,8 @@
 Meu nome é Lucas Bittencourt, 24, Desenvolvedor Full Stack e amante do DevOps!
 
 - :office_worker: Desenvolvedor Full Stack
-- :blue_heart: Stack: ReactJS, Node, PostgreSQL, MongoDB & React Native
-- :books: Estudando: tRPC, TailwindCSS & headlessUI
+- :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
+- :books: Estudando: Atomic Design, Clean Architecture & Design System
 
 > :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 
