@@ -9,7 +9,7 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-Meu nome é Lucas Bittencourt, 23, Desenvolvedor Full Stack e amante do DevOps!
+Meu nome é Lucas Bittencourt, 24, Desenvolvedor Full Stack e amante do DevOps!
 
 - :office_worker: Desenvolvedor Full Stack
 - :blue_heart: Stack: ReactJS, Node, PostgreSQL, MongoDB & React Native
