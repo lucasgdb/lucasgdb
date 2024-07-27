@@ -9,9 +9,9 @@
 
 ## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-My name is Lucas Bittencourt, 24, a Full Stack Developer and i'm currently working on Albert Einstein hospital. Currently, i am front-end heavy.
+My name is Lucas Bittencourt, 24, a Full Stack Developer and i'm working at Albert Einstein hospital.
 
-- :office_worker: Full Stack Developer
+- :office_worker: Full Stack Developer (Currently, front-end heavy)
 - :blue_heart: Stack: ReactJS, NodeJS, React Native and PostgreSQL
 - :books: Learning: Atomic Design, Clean Architecture and Design System
 
