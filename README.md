@@ -7,20 +7,20 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV-black?style=for-the-badge&logo=Dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/lucasgdb)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
 
-## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
+## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-Meu nome é Lucas Bittencourt, 24, Desenvolvedor Full Stack e amante do DevOps!
+My name is Lucas Bittencourt, 24, a Full Stack Developer and i'm currently working on Albert Einstein hospital. Currently, i am front-end heavy.
 
-- :office_worker: Desenvolvedor Full Stack
-- :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
-- :books: Estudando: Atomic Design, Clean Architecture & Design System
+- :office_worker: Full Stack Developer
+- :blue_heart: Stack: ReactJS, NodeJS, React Native and PostgreSQL
+- :books: Learning: Atomic Design, Clean Architecture and Design System
 
 > :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 
 ---
 
 <details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+  <summary> <b> Know more about me </b> <i>(Click here to expand)</i> </summary>
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -35,7 +35,7 @@ Meu nome é Lucas Bittencourt, 24, Desenvolvedor Full Stack e amante do DevOps!
     </a>
   </p>
 
-  ## Algumas Tecnologias
+  ## Some technologies
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
@@ -51,13 +51,9 @@ Meu nome é Lucas Bittencourt, 24, Desenvolvedor Full Stack e amante do DevOps!
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
-  ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws)
-  ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
