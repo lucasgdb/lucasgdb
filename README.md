@@ -9,7 +9,7 @@
 
 ## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-My name is Lucas Bittencourt, a Full Stack Developer and i am currently working at Albert Einstein hospital.
+Full-stack Developer (currently working with React.js and Node.js), full-time at Albert Einstein hospital, one of the best hospitals on the world. Developing scalable and robust solutions.
 
 - :office_worker: Full Stack Developer (Currently, front-end heavy)
 - :blue_heart: Stack: ReactJS, NodeJS, React Native and PostgreSQL
